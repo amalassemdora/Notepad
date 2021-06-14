@@ -1,0 +1,10 @@
+E:\ITI\iti\WFD\Notpade\Notepad\Notepad\Notepad\bin\Debug\Notepad.exe.config
+E:\ITI\iti\WFD\Notpade\Notepad\Notepad\Notepad\bin\Debug\Notepad.exe
+E:\ITI\iti\WFD\Notpade\Notepad\Notepad\Notepad\bin\Debug\Notepad.pdb
+E:\ITI\iti\WFD\Notpade\Notepad\Notepad\Notepad\obj\Debug\Notepad.csprojAssemblyReference.cache
+E:\ITI\iti\WFD\Notpade\Notepad\Notepad\Notepad\obj\Debug\Notepad.Notepad.resources
+E:\ITI\iti\WFD\Notpade\Notepad\Notepad\Notepad\obj\Debug\Notepad.Properties.Resources.resources
+E:\ITI\iti\WFD\Notpade\Notepad\Notepad\Notepad\obj\Debug\Notepad.csproj.GenerateResource.cache
+E:\ITI\iti\WFD\Notpade\Notepad\Notepad\Notepad\obj\Debug\Notepad.csproj.CoreCompileInputs.cache
+E:\ITI\iti\WFD\Notpade\Notepad\Notepad\Notepad\obj\Debug\Notepad.exe
+E:\ITI\iti\WFD\Notpade\Notepad\Notepad\Notepad\obj\Debug\Notepad.pdb
